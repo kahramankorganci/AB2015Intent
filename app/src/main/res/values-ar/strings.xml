@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AB2015Intent</string>
+    <string name="sure">Emin misiniz?</string>
+    <string name="open_second">İkinci aktivite açılacak</string>
+</resources>

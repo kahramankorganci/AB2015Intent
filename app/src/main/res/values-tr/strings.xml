@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AB2015Intent</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="hello_world">Merhaba Akademik Bilişim</string>
+    <string name="secondactivity">İkinci aktivite</string>
+    <string name="title_activity_second">İkinci aktivite</string>
+    <string name="sure">Emin misiniz?</string>
+    <string name="open_second">İkinci aktivite açılacak</string>
+</resources>
